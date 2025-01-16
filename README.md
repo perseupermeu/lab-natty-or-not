@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Como se proteger fraudes on-line
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book organiza um guia de orientações para proteção de seus dados de fraudes
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa Microsoft Copilot para roteirização;
+IA Generativa Microsoft Designer para criar a arte visual do e-book;
+Ferramenta Libre Office para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "Microsoft Copilot " para revisar minha pesquisa sobre como proteger meus dados de fraudes, estruturar o conteúdo e refinar minhas ideias. Já o "Microsoft Designer" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento sobre proteção de dados pessoais.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
 ```
 
 ### Exemplos e Insigths
