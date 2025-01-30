@@ -29,6 +29,6 @@ Criar este e-book foi uma experiência reveladora sobre o potencial criativo das
 
 ### E-book
 
-- [E-BOOK](https://drive.google.com/file/d/1ILXFImQC3SKnK09gualbCaeZlqFhcac2/view?usp=drive_lin)
+- [Guia Essencial de Proteção de Dados](https://drive.google.com/file/d/1ILXFImQC3SKnK09gualbCaeZlqFhcac2/view?usp=drive_lin)
 
 
