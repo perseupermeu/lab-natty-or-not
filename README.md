@@ -28,10 +28,10 @@ Este e-book organiza um guia de orientações para proteção de seus dados de f
 ## 🤖 Tecnologias Utilizadas
 IA Generativa Microsoft Copilot para roteirização;
 IA Generativa Microsoft Designer para criar a arte visual do e-book;
-Ferramenta Libre Office para edição.
+Microsoft Power Point para edição do e-book
 
 ## 🧐 Processo de Criação
-Utilizei o "Microsoft Copilot " para revisar minha pesquisa sobre como proteger meus dados de fraudes, estruturar o conteúdo e refinar minhas ideias. Já o "Microsoft Designer" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "Microsoft Copilot " para revisar minha pesquisa sobre como proteger meus dados de fraudes, estruturar o conteúdo e refinar minhas ideias. Já o "Microsoft Designer" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Microsoft Power Point.
 
 
 ## 🚀 Resultados
